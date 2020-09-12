@@ -21,7 +21,7 @@
 
 <br>
 <p>
-⚡  Fun fact: I'm a <a href="https://www.coffeegram.cf" target="blank">coffee lover ☕</a>
+⚡  Fun fact: I'm a <a href="https://www.coffeegram.cf" target="_blank">coffee lover ☕</a>
 </p>
 
 <br>
