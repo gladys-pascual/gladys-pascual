@@ -18,6 +18,9 @@
 <p>
 👩🏼‍💻   I also <a href="https://github.com/gladys-pascual/movie-tv-search-app" target="_blank"> created </a> and <a href="https://www.showme.cf/" target="_blank"> deployed </a> a movie & tv shows searching web application with React, using the TMDb API. 
 </p>
+<p>
+👩🏼‍💻  Checkout the <a href="https://score-me.netlify.app/" target="_blank"> scoreboard </a> app I created too!
+</p>
 
 <br>
 <p>
