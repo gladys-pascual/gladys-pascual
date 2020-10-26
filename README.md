@@ -10,7 +10,7 @@
 * money-me is a Full-Stack project where I used React for the Front-End, and Serverless framework using AWS for the backend. 
 </p>
 <p>
-* Feature of the budget app is an authentication integration, using Auth0, to allow for signing up and subsequently logging in to your own account. 
+* A feature of the budget app is an authentication integration, using Auth0, to allow for signing up and subsequently logging in to your own account. 
 </p>
 <p>
 * Once logged in, the user can create, update & delete a transaction. User can also view a list of their transactions and summarized through a pie chart. 
