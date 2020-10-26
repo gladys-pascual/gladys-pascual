@@ -7,7 +7,7 @@
 👩🏼‍💻     My latest project is a budget app, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>.
 </h3>
 <p> 
-* money-me is a Full-Stack project where I used React for the Front-End, and Serverless framework using AWS for the backend. 
+* money-me is a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
 </p>
 <p>
 * A feature of the budget app is an authentication integration, using Auth0, to allow for sign up and log in. 
@@ -18,14 +18,14 @@
 <p>
 * For the <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">front-end</a>, I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. 
 </p>
-<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> backend</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
+<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> back-end</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
 </p>
 
 
 <br>
 
 <h4>
-👩🏼‍💻     My other main projects were focused in Front-End, using React, which are:
+👩🏼‍💻     My other main projects were focused in front-end, using React, which are:
 </h4>
 <p>
 * <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
