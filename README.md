@@ -25,16 +25,26 @@
 <br>
 
 <h4>
-👩🏼‍💻     My other main projects were focused in front-end using react, such as:
+👩🏼‍💻     My other main projects were focused in Front-End, using React, which are:
 </h4>
 <p>
 * <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API. The repo is available <a href="https://github.com/gladys-pascual/movie-tv-search-app" target="_blank"> here</a>. 
 </p>
 <p>
-* A <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
+* <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
 </p>
 <p>
 * <a href="https://www.coffeegram.cf" target="_blank">coffegram.cf</a> - being a coffee lover ☕
+</p>
+
+<h4>
+👩🏼‍💻     I've also done a number of group projects, which are:
+</h4>
+<p>
+  * <a href="https://hackaton-group2-deploy-nokia.netlify.app/">Hackathon</a> to build a landing page for the client, Nokia, in 24 hours. 
+</p>
+<p>
+  * <a href="https://gladys-pascual.github.io/cheese-website/blog-home.html/">Cheese Website</a> 
 </p>
 
 <br>
