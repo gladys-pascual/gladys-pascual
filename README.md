@@ -13,7 +13,7 @@
 * A feature of the budget app is an authentication integration, using Auth0, to allow for sign up and log in. 
 </p>
 <p>
-* Once logged in, the user can create, update & delete a transaction. THe user can also view a list of their transactions, and view a report of transactions with a pie chart. 
+* Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
 </p>
 <p>
 * I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. For more information, checkout my <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">repo</a> for the front-end. 
