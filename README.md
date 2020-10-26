@@ -38,7 +38,7 @@
 </p>
 
 <h4>
-👩🏼‍💻     I've also done a number of group projects, which are:
+👩🏼‍💻     I've also completed a number of group projects, which are:
 </h4>
 <p>
   * <a href="https://hackaton-group2-deploy-nokia.netlify.app/">Hackathon</a> to build a landing page for the client, Nokia, in 24 hours. 
