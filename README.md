@@ -3,26 +3,38 @@
 <h3 align="center">as a Front-End Web Developer, focusing on React ⚛️</h3>
 <br>
 
-<h4>
-👩🏼‍💻   I’m currently working on a budget tracker web app.
-</h4>
-<p>
-* For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank">backend</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
+<h3>
+👩🏼‍💻     My latest project is a budget app, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>.
+</h3>
+<p> 
+* money-me is a Full-Stack project where I used React for the Front-End, and Serverless framework using AWS for the backend. 
 </p>
 <p>
-* I'm now working on the front-end part of the project using React ⚛️
+* Feature of the budget app is an authentication integration, using Auth0, to allow for signing up and subsequently logging in to your own account. 
 </p>
+<p>
+* Once logged in, the user is then able to create, update & delete a transaction. User can also retrieve all their transactions and view a summary of it through a pie chart. 
+</p>
+<p>
+* I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. For more information, checkout my <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">repo</a> for the front-end. 
+</p>
+<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> backend </a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
+</p>
+
 
 <br>
 
+<h4>
+👩🏼‍💻     My other main projects were focused in front-end using react, such as:
+</h4>
 <p>
-👩🏼‍💻   I also <a href="https://github.com/gladys-pascual/movie-tv-search-app" target="_blank"> created </a> and <a href="https://www.showme.cf/" target="_blank"> deployed </a> a movie & tv shows searching web application with React, using the TMDb API. 
+* <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API. The repo is available <a href="https://github.com/gladys-pascual/movie-tv-search-app" target="_blank"> here</a>. 
 </p>
 <p>
-👩🏼‍💻  Also, checkout the <a href="https://score-me.netlify.app/" target="_blank"> scoreboard </a> app I created. 
+* A <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
 </p>
 <p>
-⚡  Fun fact about me: I'm a <a href="https://www.coffeegram.cf" target="_blank">coffee lover ☕</a>
+* <a href="https://www.coffeegram.cf" target="_blank">coffegram.cf</a> - being a coffee lover ☕
 </p>
 
 <br>
