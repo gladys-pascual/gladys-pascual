@@ -18,7 +18,7 @@
 <p>
 * For the <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">front-end</a>, I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. 
 </p>
-<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> backend </a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
+<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> backend</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
 </p>
 
 
