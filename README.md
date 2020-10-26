@@ -10,10 +10,10 @@
 * money-me is a Full-Stack project where I used React for the Front-End, and Serverless framework using AWS for the backend. 
 </p>
 <p>
-* A feature of the budget app is an authentication integration, using Auth0, to allow for signing up and subsequently logging in to your own account. 
+* A feature of the budget app is an authentication integration, using Auth0, to allow for sign up and log in. 
 </p>
 <p>
-* Once logged in, the user can create, update & delete a transaction. User can also view a list of their transactions and summarized through a pie chart. 
+* Once logged in, the user can create, update & delete a transaction. THe user can also view a list of their transactions, and view a report of transactions with a pie chart. 
 </p>
 <p>
 * I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. For more information, checkout my <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">repo</a> for the front-end. 
