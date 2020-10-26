@@ -4,7 +4,7 @@
 <br>
 
 <h3>
-👩🏼‍💻     My latest project is a budget app, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>.
+👩🏼‍💻     My latest project is a Budget App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>.
 </h3>
 <p> 
 * money-me is a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
