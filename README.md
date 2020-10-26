@@ -16,7 +16,7 @@
 * Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
 </p>
 <p>
-* I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. For more information, checkout my <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">repo</a> for the front-end. 
+* For the <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">front-end</a>, I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. 
 </p>
 <p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> backend </a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
 </p>
@@ -28,7 +28,7 @@
 👩🏼‍💻     My other main projects were focused in Front-End, using React, which are:
 </h4>
 <p>
-* <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API. The repo is available <a href="https://github.com/gladys-pascual/movie-tv-search-app" target="_blank"> here</a>. 
+* <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
 </p>
 <p>
 * <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
