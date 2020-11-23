@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Gladys 👋 </h1>
 <h3 align="center">I'm a Chemical Engineer who is looking for a career change </h3>
-<h3 align="center">as a Front-End Web Developer, focusing on React ⚛️</h3>
+<h3 align="center">as a Software Developer, focusing on Front-End.</h3>
+<h3 align="center"> Checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏼‍💻  </h3> 
 <br>
 
 <h3>
