@@ -1,61 +1,51 @@
 <h1 align="center">Hi there, I'm Gladys 👋 </h1>
 <h3 align="center">I'm a Chemical Engineer who is looking for a career change </h3>
-<h3 align="center">as a Software Developer, focusing on Front-End.</h3>
+<h3 align="center">as a Software Developer, focusing on Front-End (React).</h3>
 <h3 align="center"> Checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏼‍💻  </h3> 
 <br>
 
 <h3>
-👩🏼‍💻    I'm currently working on a Stock Finder app using the <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API.
+👩🏼‍💻    I'm currently working on a Stock Finder app using the <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
 </h3>
-
-<p>Main features will in include:</p>
-<p>* At the homepage, be able to search for company stock, and see a list of links of current market news.</p>
+<p>Main features will include:</p>
+<p>* Search for a company stock and see a list of links of current market news in the homepage.</p>
 <p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis for the stock.</p>
 
 <br>
 
 <h3>
-👩🏼‍💻     My other main projects include:
+My other main projects are:
 </h3>
-<h4>
-Full-stack:
-</h4>
 <p> 
-* Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, is a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
+👩🏼‍💻      Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
+</p>
+<p> * I created & deployed a CRUD service for the backend using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
 </p>
 <p>
-* Includes authentication integration, using Auth0, to allow for sign up and log in. 
+   * Has authentication integration, using Auth0, to allow for sign up and log in. 
 </p>
 <p>
-* Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
+   * Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
+</p>
+
+<p>
+👩🏼‍💻      <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
 </p>
 <p>
-* For the <a href="https://github.com/gladys-pascual/my-money-front-end-react" target="_blank">front-end</a>, I used a number of libraries such as react-router-dom, axios, react-hook-form, react day picker, day js, & nivo/pie. 
+👩🏼‍💻      <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
 </p>
-<p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> back-end</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
+<p>
+👩🏼‍💻      <a href="https://www.coffeegram.cf" target="_blank">coffegram.cf</a> - being a coffee lover ☕
 </p>
 
 <h4>
-Front-end focused:
+I've also completed a number of group projects, which are:
 </h4>
 <p>
-* <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
+👩🏼‍💻     <a href="https://hackaton-group2-deploy-nokia.netlify.app/">Hackathon</a> to build a landing page for the client, Nokia, in 24 hours. 
 </p>
 <p>
-* <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
-</p>
-<p>
-* <a href="https://www.coffeegram.cf" target="_blank">coffegram.cf</a> - being a coffee lover ☕
-</p>
-
-<h4>
-👩🏼‍💻     I've also completed a number of group projects, which are:
-</h4>
-<p>
-  * <a href="https://hackaton-group2-deploy-nokia.netlify.app/">Hackathon</a> to build a landing page for the client, Nokia, in 24 hours. 
-</p>
-<p>
-  * <a href="https://gladys-pascual.github.io/cheese-website/blog-home.html/">Cheese Website</a> 
+👩🏼‍💻     <a href="https://gladys-pascual.github.io/cheese-website/blog-home.html/">Cheese Website</a> 
 </p>
 
 <br>
