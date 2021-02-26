@@ -8,8 +8,9 @@
 👩🏼‍💻    I'm currently working on a Stock Finder app using the <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
 </h3>
 <p>Main features will include:</p>
-<p>* Search for a company stock and see a list of links of current market news in the homepage.</p>
+<p>* Be able to search for a company stock and see a list of links of current market news in the homepage.</p>
 <p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis for the stock.</p>
+<p>Follow my journey in this <a href="https://github.com/gladys-pascual/stockfinder" target="_blank">repo</a>. </p>
 
 <br>
 
