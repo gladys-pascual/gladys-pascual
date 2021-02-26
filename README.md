@@ -5,13 +5,26 @@
 <br>
 
 <h3>
-👩🏼‍💻     My latest project is a Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>.
+👩🏼‍💻    I'm currently working on a Stock Finder app using the <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API.
 </h3>
+
+<p>Main features will in include:</p>
+<p>* At the homepage, be able to search for company stock, and see a list of links of current market news.</p>
+<p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis for the stock.</p>
+
+<br>
+
+<h3>
+👩🏼‍💻     My other main projects include:
+</h3>
+<h4>
+Full-stack:
+</h4>
 <p> 
-* money-me is a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
+* Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, is a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
 </p>
 <p>
-* A feature of the budget app is an authentication integration, using Auth0, to allow for sign up and log in. 
+* Includes authentication integration, using Auth0, to allow for sign up and log in. 
 </p>
 <p>
 * Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
@@ -22,11 +35,8 @@
 <p> * For the <a href="https://github.com/gladys-pascual/my-money-back-end-transaction-service" target="_blank"> back-end</a>, I created & deployed a CRUD service using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
 </p>
 
-
-<br>
-
 <h4>
-👩🏼‍💻     My other main projects were focused in front-end, using React, which are:
+Front-end focused:
 </h4>
 <p>
 * <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
