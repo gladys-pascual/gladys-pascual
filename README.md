@@ -3,21 +3,16 @@
 <h3 align="center">as a Software Developer, focusing on Front-End (React).</h3>
 <h3 align="center"> Checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏼‍💻  </h3> 
 <br>
-
 <h3>
-👩🏼‍💻    I'm currently working on a Stock Finder app using the <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
+My main projects are:
 </h3>
-<p>Main features will include:</p>
+<p> 
+👩🏼‍💻      <a href="https://stockfinder-me.netlify.app/" target="_blank">Stock Finder App</a> built using <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
+</p>
+<p>Main features include:</p>
 <p>* Ability to search for a company stock, with an auto-complete search feature. </p>
-<p>* See a list of links of current market news in the homepage.</p>
-<p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis for the stock.</p>
-<p>Follow my journey in this <a href="https://github.com/gladys-pascual/stockfinder" target="_blank">repo</a>. </p>
-
-<br>
-
-<h3>
-My other main projects are:
-</h3>
+<p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis of whether to buy or sell the stock.</p>
+<p>* See a list of links of current market news.</p>
 <p> 
 👩🏼‍💻      Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
 </p>
