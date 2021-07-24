@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Gladys 👋 </h1>
-<h4 align="center">I'm a Front End Engineer and I'm focusing on improving my skills by building projects - checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏻‍💻</h4>
+<p align="center">I'm a Front End Engineer and I'm focusing on improving my skills by building projects - checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏻‍💻</p>
 <br>
-<h3>
+<p>
 My main projects are:
-</h3>
+</p>
 <p> 
 👩🏼‍💻      <a href="https://stockfinder-me.netlify.app/" target="_blank">Stock Finder App</a> built using <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
 </p>
