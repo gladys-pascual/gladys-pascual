@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Gladys 👋 </h1>
-<h3 align="center">I'm a Chemical Engineer who is looking for a career change </h3>
-<h3 align="center">as a Software Developer, focusing on Front-End (React).</h3>
-<h3 align="center"> Checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏼‍💻  </h3> 
+<h4 align="center">I'm a Front End Engineer and I'm focusing on improving my skills by building projects - checkout my <a href="https://www.gladyspascual.me/" target="_blank">portfolio</a> 👩🏻‍💻</h4>
 <br>
 <h3>
 My main projects are:
@@ -9,20 +7,8 @@ My main projects are:
 <p> 
 👩🏼‍💻      <a href="https://stockfinder-me.netlify.app/" target="_blank">Stock Finder App</a> built using <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
 </p>
-<p>Main features include:</p>
-<p>* Ability to search for a company stock, with an auto-complete search feature. </p>
-<p>* For a specific company, be able to see real time quote data, a graph of the cost of stocks within a certain timeline, see the current news about the company, and see current analysis of whether to buy or sell the stock.</p>
-<p>* See a list of links of current market news.</p>
 <p> 
 👩🏼‍💻      Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
-</p>
-<p> * I created & deployed a CRUD service for the backend using AWS lambda functions & expose them as RESTful APIs using Amazon API Gateway.
-</p>
-<p>
-   * Has authentication integration, using Auth0, to allow for sign up and log in. 
-</p>
-<p>
-   * Once logged in, the user can create, update & delete a transaction. The user can also view a list of their transactions, and view a report of transactions with a pie chart. 
 </p>
 
 <p>
