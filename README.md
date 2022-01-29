@@ -8,17 +8,17 @@ My main projects are:
 👩🏼‍💻      <a href="https://stockfinder-me.netlify.app/" target="_blank">Stock Finder App</a> built using <a href="https://finnhub.io/docs/api/introduction" target="_blank">Finnhub</a> API and React.
 </p>
 <p> 
-👩🏼‍💻      Budget Tracker App, <a href="https://www.moneyme.cf" target="_blank">moneyme.cf</a>, a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
+👩🏼‍💻      Budget Tracker App, <a href="https://money-me.netlify.app/login" target="_blank">moneyme.cf</a>, a Full-Stack project where I used React for the front-end, and Serverless framework using AWS for the back-end. 
 </p>
 
 <p>
-👩🏼‍💻      <a href="https://www.showme.cf/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
+👩🏼‍💻      <a href="https://movie-tv-search-app.netlify.app/" target="_blank"> showme.cf </a> - a movie & tv shows searching web application created using the TMDb API.
 </p>
 <p>
 👩🏼‍💻      <a href="https://score-me.netlify.app/" target="_blank"> scoreboard</a> app - perfect for all the lockdown boardgames!   
 </p>
 <p>
-👩🏼‍💻      <a href="https://www.coffeegram.cf" target="_blank">coffegram.cf</a> - being a coffee lover ☕
+👩🏼‍💻      <a href="https://coffee-gram.netlify.app/" target="_blank">coffegram.cf</a> - being a coffee lover ☕
 </p>
 
 <h4>
